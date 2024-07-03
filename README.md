@@ -6,8 +6,9 @@ simple currency  exchange java gui app
 
 **********
 ## Intial contributers 
-* zereab biruk (**)
-* lidia solomon (**)
-* tariku dubale(***)
-* heran balyhun (**)
-* foby bus(firaol.w-->*****)
+* zereab (**)
+* lidia  (**)
+* tariku (**)
+* heran (**)
+  
+* foby bus(**)
